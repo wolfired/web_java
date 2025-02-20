@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-WebJavaApplication<web_java>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.wolfired.WebJavaApplication",
+            "projectName": "web_java",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

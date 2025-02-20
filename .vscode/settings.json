@@ -1,0 +1,10 @@
+{
+  "java.jdt.ls.java.home": "F:\\jdk_23.0.2",
+  "spring-boot.ls.java.home": "F:\\jdk_23.0.2",
+  "java.import.gradle.java.home": "F:\\jdk_23.0.2",
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "java.configuration.runtimes": [
+    { "name": "JavaSE-23", "path": "F:\\jdk_23.0.2", "default": true }
+  ],
+  "java.compile.nullAnalysis.mode": "automatic"
+}
